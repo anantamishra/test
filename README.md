@@ -20,4 +20,3 @@ Hi, I'm Ananta Mishra, a creative Graphics Designer, UI/UX Designer and a Fronte
 - You can ping me on [facebook](https://fb.com/mishraananta2017) if you have any problems.
 
 ![Ananta's github stats](https://github-readme-stats.vercel.app/api?username=anantamishra&theme=blue-green&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anantamishra&layout=compact)](https://github.com/anantamishra/github-readme-stats)
